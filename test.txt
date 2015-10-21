@@ -5,3 +5,5 @@ create a new branch is quick and simple.
 practicing fixing conflict.
 
 --no-ff
+
+add some text.
